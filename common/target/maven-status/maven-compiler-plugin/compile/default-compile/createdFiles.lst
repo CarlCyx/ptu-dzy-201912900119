@@ -1,0 +1,4 @@
+model\Userorder.class
+model\Goods.class
+model\Cart.class
+model\User.class
